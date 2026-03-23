@@ -1,39 +1,74 @@
-# 🌦️ Challenge - Weather App
+# 🌦️ Weather App - Challenge Solution
 
-Welcome to the **Weather App Challenge!**
-This repository contains the implementation of a simple weather application that retrieves and displays weather information using the [OpenWeather API](https://openweathermap.org/api).
-
-We use predefined latitude and longitude coordinates from various cities to fetch and display detailed weather data, such as:
-
-- 🌡️ Temperature
-- 💧 Humidity
-- 🌬️ Pressure (coming soon!)
-
-<img src="weather_app.gif" alt="Weather app" height="500">
+Solução para desafio técnico envolvendo correção e implementação de funcionalidades em um aplicativo Android que consome dados da API OpenWeather.
 
 ---
 
-## 🚧 Current Status & To-Do List
+## 📌 Objetivo do desafio
 
-The app is functional, but there are still some improvements and bug fixes to be made. Here's what's on our radar:
-
-- [ ] 🔑 Add your API key to the `local.properties` file:
-`WEATHER_API_KEY= <your-api-key-here>`
-- [ ] 📊 Fetch and display **pressure** data from the API
-- [ ] 🔄 Implement data refresh on **Refresh** button click
-- [ ] 🎨 Fix broken **weather icons**
-- [ ] 🧹 Eliminate **duplicate data** issues
+Identificar e corrigir problemas existentes no projeto, além de implementar melhorias solicitadas.
 
 ---
 
-## 🧠 Your Mission (Should You Choose to Accept It)
+## ✅ Correções e melhorias realizadas
 
-> 🎺 *Maestro, a drum roll, please...*
+- 🔧 Exibição correta da **pressão atmosférica**
+- 🔄 Implementação de **atualização manual (refresh)**
+- 🖼️ Correção dos **ícones climáticos**
+- 🧹 Remoção de **dados duplicados na lista**
+- 🔑 Configuração da **API Key via local.properties**
 
-Your challenge is to help us fix those bugs and complete the tasks listed above.
-Bring your problem-solving skills, creativity, and caffeine if needed — and let’s make this app shine!
+---
 
-Ready?
-**Go go go...**
-🚀🚀🚀🚀🚀🚀🚀🚀🚀
+## ▶️ Como executar
 
+1. Adicione sua API Key no arquivo:
+
+local.properties
+WEATHER_API_KEY=your_api_key_here
+
+
+2. Execute o projeto no Android Studio
+
+---
+# 🌦️ Weather App - Challenge Solution
+
+Solução para desafio técnico envolvendo correção e implementação de funcionalidades em um aplicativo Android que consome dados da API OpenWeather.
+
+---
+
+## 📌 Objetivo do desafio
+
+Identificar e corrigir problemas existentes no projeto, além de implementar melhorias solicitadas.
+
+---
+
+## ✅ Correções e melhorias realizadas
+
+- 🔧 Exibição correta da **pressão atmosférica**
+- 🔄 Implementação de **atualização manual (refresh)**
+- 🖼️ Correção dos **ícones climáticos**
+- 🧹 Remoção de **dados duplicados na lista**
+- 🔑 Configuração da **API Key via local.properties**
+
+---
+
+## ▶️ Como executar
+
+1. Adicione sua API Key no arquivo:
+
+local.properties
+WEATHER_API_KEY=your_api_key_here
+
+
+2. Execute o projeto no Android Studio
+
+---
+
+## 👨‍💻 Autor
+
+Artur Sales
+
+## 👨‍💻 Autor
+
+Artur Sales
